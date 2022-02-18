@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VeniceTime/static/css/main.c2d1a3cf.css",
+    "main.js": "/VeniceTime/static/js/main.7d1e94e6.js",
+    "static/js/787.ec435dd2.chunk.js": "/VeniceTime/static/js/787.ec435dd2.chunk.js",
+    "index.html": "/VeniceTime/index.html",
+    "main.c2d1a3cf.css.map": "/VeniceTime/static/css/main.c2d1a3cf.css.map",
+    "main.7d1e94e6.js.map": "/VeniceTime/static/js/main.7d1e94e6.js.map",
+    "787.ec435dd2.chunk.js.map": "/VeniceTime/static/js/787.ec435dd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d1a3cf.css",
+    "static/js/main.7d1e94e6.js"
+  ]
+}
