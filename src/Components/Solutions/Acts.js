@@ -7,12 +7,12 @@ export default function Act1() {
     <div >
     <h1 className="text-center">Merchant Of Venice</h1>
   <br></br>
-    <div className="hstack gap-3">
+    <div className="hstack gap-5">
          <br />
           <NavLink to="/sc1">
           <button   className="btn btn-primary btn-lg">Act-1 Scene-1</button>
 </NavLink> 
-<div> </div>
+<div  > </div>
 <NavLink to="/sc2">
           <button  className="btn btn-primary btn-lg" >Act-1 Scene-2</button>
 </NavLink> 
