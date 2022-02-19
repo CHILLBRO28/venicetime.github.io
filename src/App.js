@@ -17,7 +17,7 @@ function App() {
           <NavBar/>
 
           {/*Home*/}
-          <Route exact path="/">
+          <Route exact path="/" basename={process.env.PUBLIC_URL}>
           <Home/>
           </Route>
 
