@@ -17,14 +17,18 @@ export default function Act1() {
     <div className="hstack gap-4">
          <br />
        
-          <NavLink to="/sc1">
+ <NavLink to="/sc1">
           <button   className="btn btn-primary btn-lg">Scene-1</button>
 </NavLink> 
-<div  > </div>
 <NavLink to="/sc2">
           <button  className="btn btn-primary btn-lg" >Scene-2</button>
 </NavLink> 
+<NavLink to="/sc3">
+          <button  className="btn btn-primary btn-lg" >Scene-3</button>
+</NavLink> 
+
     </div>
+
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
 
     </div>

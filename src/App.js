@@ -8,6 +8,7 @@ import Home from './Components/Home';
 import AboutUs from './Components/AboutUs';
 import Sc1 from './Components/Solutions/Act-1/Sc1';
 import Sc2 from './Components/Solutions/Act-1/Sc2';
+import Sc3 from './Components/Solutions/Act-1/Sc3';
 import { Footer } from './Components/Footer';
 import NavBar from './Components/NavBar';
 import Acts from './Components/Solutions/Acts'
@@ -35,6 +36,10 @@ function App() {
 
           <Route exact path="/sc2" >
           <Sc2 />
+          </Route>
+
+          <Route exact path="/sc3" >
+          <Sc3 />
           </Route>
 
          
