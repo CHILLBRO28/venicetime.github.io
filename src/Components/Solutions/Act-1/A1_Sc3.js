@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Sc3() {
+export default function A1_Sc3() {
     let Style = {
         margin : "2vh",
 
@@ -187,8 +187,8 @@ Normally, Shylock charges interest, but this time he is showing kindness and off
 Ans:  notary is a solicitor or a legal officer authorized to perform certain legal formalities. Shylock wants to take Antonio to the notary to sign the bond document which stipulates that the forfeit to be paid will be a pound of flesh from any part of Antonio’s body.
 <br /><br />
 <strong>ii)  Give the meaning of:
-</strong>(a) Single bond
-(b) Merry sport
+<br />(a) Single bond<br />
+(b) Merry sport</strong>
 <br />
 Ans:    (a) single bond means a bond undertaken by one person, i.e., it was signed by Antonio alone 
 

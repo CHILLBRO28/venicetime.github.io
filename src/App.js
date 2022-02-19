@@ -1,14 +1,15 @@
+/* eslint-disable react/jsx-pascal-case */
 import './App.css';
 import {
   Route,
-  Switch,
 } from "react-router-dom";
 
 import Home from './Components/Home';
 import AboutUs from './Components/AboutUs';
-import Sc1 from './Components/Solutions/Act-1/Sc1';
-import Sc2 from './Components/Solutions/Act-1/Sc2';
-import Sc3 from './Components/Solutions/Act-1/Sc3';
+import A1_Sc1 from './Components/Solutions/Act-1/A1_Sc1';
+import A1_Sc2 from './Components/Solutions/Act-1/A1_Sc2';
+import A1_Sc3 from './Components/Solutions/Act-1/A1_Sc3';
+import A2_Sc1 from './Components/Solutions/Act-2/A2_Sc1'
 import { Footer } from './Components/Footer';
 import NavBar from './Components/NavBar';
 import Acts from './Components/Solutions/Acts'
@@ -30,16 +31,20 @@ function App() {
           <Acts />
           </Route >
 
-          <Route exact path="/sc1" >
-          <Sc1 />
+          <Route exact path="/A1_sc1" >
+          <A1_Sc1 />
           </Route>
 
-          <Route exact path="/sc2" >
-          <Sc2 />
+          <Route exact path="/A1_sc2" >
+          <A1_Sc2 />
           </Route>
 
-          <Route exact path="/sc3" >
-          <Sc3 />
+          <Route exact path="/A1_sc3" >
+          <A1_Sc3 />
+          </Route>
+
+          <Route exact path="/A2_sc1" >
+          <A2_Sc1 />
           </Route>
 
          

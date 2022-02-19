@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Sc1() {
+export default function A1_Sc1() {
     let Style = {
         margin : "2vh",
 

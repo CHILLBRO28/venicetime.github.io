@@ -14,20 +14,29 @@ export default function Act1() {
   <br></br>
   <h1 style={Style} className="text-left">Act-1</h1>
         <br />
-    <div className="hstack gap-4">
+    <div  className="hstack gap-4">
          <br />
        
- <NavLink to="/sc1">
+ <NavLink to="/A1_sc1">
           <button   className="btn btn-primary btn-lg">Scene-1</button>
 </NavLink> 
-<NavLink to="/sc2">
+<NavLink to="/A1_sc2">
           <button  className="btn btn-primary btn-lg" >Scene-2</button>
 </NavLink> 
-<NavLink to="/sc3">
+<NavLink to="/A1_sc3">
           <button  className="btn btn-primary btn-lg" >Scene-3</button>
 </NavLink> 
 
     </div>
+    <br />
+<h1 style={Style} className="text-left">Act-2</h1>
+
+<div  className="hstack gap-4">
+  <br />
+<NavLink to="/A2_sc1">
+          <button  className="btn btn-primary btn-lg" >Scene-1</button>
+</NavLink> 
+</div>
 
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
 
