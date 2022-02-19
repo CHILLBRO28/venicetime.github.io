@@ -8,7 +8,7 @@ import Home from './Components/Home';
 import AboutUs from './Components/AboutUs';
 import Sc1 from './Components/Solutions/Act-1/Sc1';
 import Sc2 from './Components/Solutions/Act-1/Sc2';
-
+import { Footer } from './Components/Footer';
 import NavBar from './Components/NavBar';
 import Acts from './Components/Solutions/Acts'
 function App() {
@@ -41,8 +41,8 @@ function App() {
 
 
          
-
-    </div>
+         {/**<Footer /> */} 
+    </div> 
   );
 }
 

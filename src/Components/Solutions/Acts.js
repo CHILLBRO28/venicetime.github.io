@@ -25,6 +25,8 @@ export default function Act1() {
           <button  className="btn btn-primary btn-lg" >Scene-2</button>
 </NavLink> 
     </div>
+    <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
+
     </div>
   )
 }            

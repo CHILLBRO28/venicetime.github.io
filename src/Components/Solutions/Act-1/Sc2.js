@@ -37,35 +37,35 @@ Ans: Portia is melancholic in the beginning of the scene as it was the case with
 
 <h3 className="text-center">Extract-2</h3>
 
-i) Where are Portia and Nerissa? What are they generally discussing about? In what mood is Portia in the scene?
-<br />
+<strong>i) Where are Portia and Nerissa? What are they generally discussing about? In what mood is Portia in the scene?
+</strong><br />
 Ans: Portia and Nerissa are in a room in Belmont, in Portia's house. They are discussing the lottery of caskets and about the suitors who have already come to try their luck. In this scene, Portia is in a mood of melancholy and anxiety.
 
 <br /><br />
-ii) Who is the Country Palatine? Why has he come to Belmont?
-<br />
+<strong>ii) Who is the Country Palatine? Why has he come to Belmont?
+</strong><br />
 Ans: Country Palatine refers to the court from the Palatine, the region on the west bank of the Rhine. The court is a local ruler or a nobleman. He was a powerful lord who came as a suitor to Belmont to try his luck to woo Portia by choosing the correct caskets.
 
 <br /><br />
-iii) Who is the first prince described by Portia? What does she say about him?
-<br />
+<strong>iii) Who is the first prince described by Portia? What does she say about him?
+</strong><br />
 Ans: The first prince described by Portia is a Neapolitan prince from Italy. She describes him as a typical Italian who is inexperienced like a young horse. He talks only about is his horse. He thinks it’s a great credit to his character that he can shoe a horse all by himself.
 
 <br /><br />
-iv) Who is the weeping philosopher? In which context is he referred to in the extract? Give the meaning of: "a death's -head with a bone in his mouth."
-
+<strong>iv) Who is the weeping philosopher? In which context is he referred to in the extract? Give the meaning of: "a death's -head with a bone in his mouth."
+</strong>
 <br />
 Ans: The weeping philosopher refers to Heraclitus of Ephesus who was a pre-socratic Greek philosopher. He was so depressed by human follies that he secluded himself on the Mountain. Portia refers to him to describe County Palatine. She feels that when County Palatine grows old, he will become a sad philosopher like Heraclitus. 
 Death's head with a bone in his mouth means a skull with a bone in its mouth. The emblem of a skull with two bones crossed underneath was usually known as ‘death’s head. Portia says that she would rather be married to death' head with bone in his mouth rather than to either of the princes.
 <br /><br />
 
-v) Give a character sketch of the Country Palatine. What impression does Portia have about him?
-<br />
+<strong>v) Give a character sketch of the Country Palatine. What impression does Portia have about him?
+</strong><br />
 Ans: Country palatine was a powerful lord who came as a suitor to Belmont to try his luck to woo Portia by choosing the correct caskets. He does nothing but frowns. He doesn’t even smile when he hears funny stories. He is full of unmannerly sadness in his youth age. He was a sullen, gloomy, Morose, and self-conceited person.
 Portia says he is sad and solemn. He has an abrupt manner of speech and may become a sad philosopher like Heraclitus when he grows old. She further says that she would rather be married to a skull with a bone in its mouth than to either of those men.
 <br /><br /><br />
 
-</p>
+</p> 
 
 </div>
   )
