@@ -1,6 +1,7 @@
 import './App.css';
 import {
   Route,
+  Switch,
 } from "react-router-dom";
 
 import Home from './Components/Home';
@@ -15,9 +16,8 @@ function App() {
     <div className="App">
           {/*Navbar*/}
           <NavBar/>
-
           {/*Home*/}
-          <Route exact path="/" basename={process.env.PUBLIC_URL}>
+          <Route exact path="/" basename="/">
           <Home/>
           </Route>
 
@@ -36,7 +36,6 @@ function App() {
           <Route exact path="/sc2" >
           <Sc2 />
           </Route>
-
 
          
 
