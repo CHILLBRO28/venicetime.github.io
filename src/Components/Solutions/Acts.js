@@ -3,7 +3,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 export default function Act1() {
   let Style = {
-    margin : "5vh",
+    margin : "1rem",
 
 
   }
@@ -14,27 +14,27 @@ export default function Act1() {
   <br></br>
   <h1 style={Style} className="text-left">Act-1</h1>
         <br />
-    <div  className="hstack gap-4">
-         <br />
+    <div  className="hstack gap-3">
+    <br />
        
  <NavLink to="/A1_sc1">
-          <button   className="btn btn-primary btn-lg">Scene-1</button>
+          <button   className="btn btn-primary btn-lg">Scene_1</button>
 </NavLink> 
 <NavLink to="/A1_sc2">
-          <button  className="btn btn-primary btn-lg" >Scene-2</button>
+          <button  className="btn btn-primary btn-lg" >Scene_2</button>
 </NavLink> 
 <NavLink to="/A1_sc3">
-          <button  className="btn btn-primary btn-lg" >Scene-3</button>
+          <button  className="btn btn-primary btn-lg" >Scene_3</button>
 </NavLink> 
 
     </div>
     <br />
 <h1 style={Style} className="text-left">Act-2</h1>
 
-<div  className="hstack gap-4">
+<div  className="hstack gap-3">
   <br />
 <NavLink to="/A2_sc1">
-          <button  className="btn btn-primary btn-lg" >Scene-1</button>
+          <button  className="btn btn-primary btn-lg" >Scene_1</button>
 </NavLink> 
 </div>
 
