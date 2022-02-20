@@ -14,7 +14,7 @@ export default function Act1() {
   <br></br>
   <h1 style={Style} className="text-left">Act-1</h1>
         <br />
-    <div  className="hstack gap-3">
+    <div  className="hstack gap-2">
     <br />
        
  <NavLink to="/A1_sc1">
@@ -31,7 +31,7 @@ export default function Act1() {
     <br />
 <h1 style={Style} className="text-left">Act-2</h1>
 
-<div  className="hstack gap-3">
+<div  className="hstack gap-2">
   <br />
 <NavLink to="/A2_sc1">
           <button  className="btn btn-primary btn-lg" >Scene_1</button>
