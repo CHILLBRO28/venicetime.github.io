@@ -36,6 +36,9 @@ export default function Act1() {
 <NavLink to="/A2_sc1">
           <button  className="btn btn-primary btn-lg" >Scene_1</button>
 </NavLink> 
+<NavLink to="/A2_sc2">
+          <button  className="btn btn-primary btn-lg" >Scene_2</button>
+</NavLink> 
 </div>
 
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>

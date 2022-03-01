@@ -126,6 +126,11 @@ Ans: Before he is led to make the choice, Portia instructs him to attempt to cho
 Ans: The goddess Fortune is usually represented blindfolded. Fortune is said to be blind due to the unaccountable variations in her dispensation of favors to mankind. He fears that as the blind fortune is leading him to choose the right casket, the outcome depends only on chance as in a game of dice.
 <br />
 <br />
+<strong>vi) .Why does Portia ask Morocco to go to the temple before he makes the choice of the casket?
+</strong><br />
+Ans: Before he makes the choice of the casket, Portia asks Morocco to go to the temple to swear on oath that if he makes the wrong choice, he will never again speak to any lady on the subject of marriage.
+<br />
+<br />
 <br />
 
 </p>
