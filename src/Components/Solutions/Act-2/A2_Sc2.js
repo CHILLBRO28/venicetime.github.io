@@ -233,12 +233,7 @@ Ans: Bassanio asks Gratiano to behave properly in Belmont because he fears that 
 <strong>v) What assurance does Gratiano give to Bassanio about the latter’s advice?
 </strong><br />
 Ans: Gratiano promises to behave in a proper manner. He says that he will converse gravely and will seldom use an oath. He will carry prayer books in his pockets and look most sedate. During the grace before meals, he will veil his eyes with his hat and solemnly say ‘Amen’. He will do everything that politeness demands and follow all the customs of good manners, as though he trying to please his grandmother by showing a quiet and serious behaviour.
-<br />  <br />
-
-
-<strong>vi) What exception to Gratiano’s behaviour is accepted for the particular night? Why?
-</strong><br />
-Ans: Bassanio tells Gratiano that his rude behaviour will be tolerated for the night because of the party. This is because Bassanio wants that night to be one of fun and mirth. He will be sorry to see Gratiano in a sad mood. Bassanio would prefer to see him in his wildest spirits.
+ Bassanio tells Gratiano that his rude behaviour will be tolerated for the night because of the party. This is because Bassanio wants that night to be one of fun and mirth. He will be sorry to see Gratiano in a sad mood. Bassanio would prefer to see him in his wildest spirits.
 <br />  <br />
 
 
