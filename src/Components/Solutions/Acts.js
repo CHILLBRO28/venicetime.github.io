@@ -4,6 +4,7 @@ import { NavLink } from 'react-router-dom'
 export default function Act1() {
   let Style = {
     margin : "1rem",
+    left : "2em",
 
 
   }
@@ -13,7 +14,7 @@ export default function Act1() {
     <h1 className="text-center">Merchant Of Venice</h1>
   <br></br>
   <h1 style={Style} className="text-left">Act-1</h1>
-        <br />
+      
     <div  className="hstack gap-2">
     <br />
        
@@ -42,6 +43,14 @@ export default function Act1() {
 <NavLink to="/A2_sc3">
           <button  className="btn btn-primary btn-lg" >Scene_3</button>
 </NavLink> 
+ 
+</div>
+<br />
+<div  className="hstack gap-2">
+  <br />
+{/*<NavLink to="/A2_sc3">
+          <button  className="btn btn-primary btn-lg" >Scene_3</button>
+</NavLink>*/}
 </div>
 
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
