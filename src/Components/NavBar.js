@@ -5,10 +5,10 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 export default function NavBar() {
   let Style = {
-    width: '104%'
+    width: "122%",
   }
   return (
-    <div style={Style}>
+    <div >
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   

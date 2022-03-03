@@ -19,13 +19,13 @@ export default function Act1() {
     <br />
        
  <NavLink to="/A1_sc1">
-          <button   className="btn btn-primary btn-lg">Scene_1</button>
+          <button   className="btn btn-primary ">Scene_1</button>
 </NavLink> 
 <NavLink to="/A1_sc2">
-          <button  className="btn btn-primary btn-lg" >Scene_2</button>
+          <button  className="btn btn-primary " >Scene_2</button>
 </NavLink> 
 <NavLink to="/A1_sc3">
-          <button  className="btn btn-primary btn-lg" >Scene_3</button>
+          <button  className="btn btn-primary " >Scene_3</button>
 </NavLink> 
 
     </div>
@@ -35,22 +35,26 @@ export default function Act1() {
 <div  className="hstack gap-2">
   <br />
 <NavLink to="/A2_sc1">
-          <button  className="btn btn-primary btn-lg" >Scene_1</button>
+          <button  className="btn btn-primary"  >Scene_1</button>
 </NavLink> 
 <NavLink to="/A2_sc2">
-          <button  className="btn btn-primary btn-lg" >Scene_2</button>
+          <button  className="btn btn-primary" >Scene_2</button>
 </NavLink> 
 <NavLink to="/A2_sc3">
-          <button  className="btn btn-primary btn-lg" >Scene_3</button>
+          <button  className="btn btn-primary" >Scene_3</button>
 </NavLink> 
  
 </div>
 <br />
 <div  className="hstack gap-2">
   <br />
-{/*<NavLink to="/A2_sc3">
-          <button  className="btn btn-primary btn-lg" >Scene_3</button>
-</NavLink>*/}
+<NavLink to="/A2_sc4">
+          <button  className="btn btn-primary " >Scene_4</button>
+</NavLink>
+
+<NavLink to="/A2_sc5">
+          <button  className="btn btn-primary " >Scene_5</button>
+</NavLink>
 </div>
 
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
