@@ -16,6 +16,7 @@ import A2_Sc3 from './Components/Solutions/Act-2/A2_Sc3';
 import A2_Sc4 from './Components/Solutions/Act-2/A2_Sc4';
 import A2_Sc5 from './Components/Solutions/Act-2/A2_Sc5';
 import A2_Sc6 from './Components/Solutions/Act-2/A2_Sc6'
+import A2_Sc7 from './Components/Solutions/Act-2/A2_Sc7'
 import { Footer } from './Components/Footer';
 import NoPage from './Components/NoPage';
 import NavBar from './Components/NavBar';
@@ -74,6 +75,10 @@ function App() {
 
           <Route exact path="/A2_sc6" >
           <A2_Sc6 />
+          </Route>
+
+          <Route exact path="/A2_sc7" >
+          <A2_Sc7 />
           </Route>
 
          
