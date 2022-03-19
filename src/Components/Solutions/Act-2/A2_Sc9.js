@@ -25,7 +25,7 @@ Ans: Arragon is bound by the oath to observe three conditions. First, he must ne
 <br /><br />
 <strong>iii) Enumerate the conditions in the oath which Arragon was supposed to take.
 </strong><br />
-Ans:Ans: Arragon is bound by the oath to observe three conditions. First, he must never reveal to any other person which caskets he has selected. Second, if he does not win Portia, he should not woo any other lady. Third, if he chooses wrongly he must depart at once without further words. He explicitly kept the last condition of the scene.
+Ans: Arragon is bound by the oath to observe three conditions. First, he must never reveal to any other person which caskets he has selected. Second, if he does not win Portia, he should not woo any other lady. Third, if he chooses wrongly he must depart at once without further words. He explicitly kept the last condition of the scene.
  <br /><br />
  <strong>iv) How wise is it to arrange marriages through a lottery system where chance plays a significant role? How does Nerissa justify the system in Portia's case?
 </strong><br />
