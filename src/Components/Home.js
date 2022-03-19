@@ -4,7 +4,8 @@ import {NavLink} from "react-router-dom"
 
 function Home() {
   let Style = {
-    bottom : "2rem",
+    position: "relative",
+    bottom : "1rem",
 
 
 }
