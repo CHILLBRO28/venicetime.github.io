@@ -19,8 +19,7 @@ import A2_Sc6 from './Components/Solutions/Act-2/A2_Sc6'
 import A2_Sc7 from './Components/Solutions/Act-2/A2_Sc7'
 import A2_Sc8 from './Components/Solutions/Act-2/A2_Sc8'
 import A2_Sc9 from './Components/Solutions/Act-2/A2_Sc9'
-
-import { Footer } from './Components/Footer';
+/*import { Footer } from './Components/Footer';*/
 import NoPage from './Components/NoPage';
 import NavBar from './Components/NavBar';
 import Acts from './Components/Solutions/Acts'
