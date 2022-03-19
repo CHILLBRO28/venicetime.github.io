@@ -74,6 +74,17 @@ export default function Act1() {
           <button  className="btn btn-primary " >Scene_9</button>
 </NavLink>
 </div>
+<br />
+<h1 style={Style} className="text-left">Act-3</h1>
+
+<div  className="hstack gap-2">
+  <br />
+<NavLink to="/A3_sc1">
+          <button  className="btn btn-primary"  >Scene_1</button>
+</NavLink> 
+
+ 
+</div>
 
 
     <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
