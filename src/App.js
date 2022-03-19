@@ -7,16 +7,19 @@ import {
 
 import Home from './Components/Home';
 import AboutUs from './Components/AboutUs';
-import A1_Sc1 from './Components/Solutions/Act-1/A1_Sc1';
-import A1_Sc2 from './Components/Solutions/Act-1/A1_Sc2';
-import A1_Sc3 from './Components/Solutions/Act-1/A1_Sc3';
+import A1_Sc1 from './Components/Solutions/Act-1/A1_Sc1'
+import A1_Sc2 from './Components/Solutions/Act-1/A1_Sc2'
+import A1_Sc3 from './Components/Solutions/Act-1/A1_Sc3'
 import A2_Sc1 from './Components/Solutions/Act-2/A2_Sc1'
-import A2_Sc2 from './Components/Solutions/Act-2/A2_Sc2';
-import A2_Sc3 from './Components/Solutions/Act-2/A2_Sc3';
-import A2_Sc4 from './Components/Solutions/Act-2/A2_Sc4';
-import A2_Sc5 from './Components/Solutions/Act-2/A2_Sc5';
+import A2_Sc2 from './Components/Solutions/Act-2/A2_Sc2'
+import A2_Sc3 from './Components/Solutions/Act-2/A2_Sc3'
+import A2_Sc4 from './Components/Solutions/Act-2/A2_Sc4'
+import A2_Sc5 from './Components/Solutions/Act-2/A2_Sc5'
 import A2_Sc6 from './Components/Solutions/Act-2/A2_Sc6'
 import A2_Sc7 from './Components/Solutions/Act-2/A2_Sc7'
+import A2_Sc8 from './Components/Solutions/Act-2/A2_Sc8'
+import A2_Sc9 from './Components/Solutions/Act-2/A2_Sc9'
+
 import { Footer } from './Components/Footer';
 import NoPage from './Components/NoPage';
 import NavBar from './Components/NavBar';
@@ -81,6 +84,14 @@ function App() {
           <A2_Sc7 />
           </Route>
 
+          <Route exact path="/A2_sc8" >
+          <A2_Sc8 />
+          </Route>
+
+          
+          <Route exact path="/A2_sc9" >
+          <A2_Sc9 />
+          </Route>
          
           <Route exact path="*" >
           <NoPage />

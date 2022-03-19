@@ -10,7 +10,7 @@ export default function NavBar() {
   return (
     <div >
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm mb-5 bg-body rounded">
   
   <div class="container-fluid">
     <NavLink class="navbar-brand" to="/"  >A Venice Time</NavLink>
