@@ -83,11 +83,11 @@ export default function Act1() {
           <button  className="btn btn-primary"  >Scene_1</button>
 </NavLink> 
 
- 
 </div>
+<br/>
+<br/>
 
-
-    <h3 className='text-center fixed-bottom'>More Acts & Scenes to be added soon...</h3>
+    <h3 className='text-center bottom'>More Acts & Scenes to be added soon...</h3>
 
     </div>
   )
